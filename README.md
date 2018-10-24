@@ -11,3 +11,4 @@ BSM期权定价
 * 8、投资者能够以无风险利率借贷。
 
 ## 定价公式
+![image](https://github.com/Aplicity/BSM_Option_pricing/blob/master/model_function.png)
